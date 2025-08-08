@@ -1,0 +1,8 @@
+---
+bibliography: softbib.bib
+nocite: |
+  @base
+---
+
+# Software Bibliography
+
